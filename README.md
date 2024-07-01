@@ -1,2 +1,3 @@
 # DIGIBHEM
-Internship at Digital Bhem 
+Internship at Digital Bhem with completion of different tasks
+
